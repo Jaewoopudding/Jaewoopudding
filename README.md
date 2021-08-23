@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ## ✏️ Academic Interests
 * **XAI** - eXplainable Artificial Intelligence
-* **FDD** Mechanical Fault Detection and Diagnosis
-* **PHM** Prognostic Health Management
+* **FDD** - Mechanical Fault Detection and Diagnosis
+* **PHM** - Prognostic Health Management
