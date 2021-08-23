@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## 🤔 Interested in 
 * Machine Learning with Mechanical Engineering
+* Computer Vision
 * Robotics 🤖
 
 ## 👯 Experiences
