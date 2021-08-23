@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ## ✏️ Academic Interests
 * eXplainable Artificial Intelligence
-* Fault Detection and Diagnosis
+* Mechanical Fault Detection and Diagnosis
 * Prognostic Health Management
