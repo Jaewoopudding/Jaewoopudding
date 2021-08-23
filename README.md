@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Interested in 
+* Machine Learning with Mechanical Engineering
+* Robotics 🤖
+
 ## 👯 Experiences
-* **Seoul National University**: Biomedical Modeling and Control Lab - Intern Researcher (2020.12 ~ 2021.2)
-* **Samsung Electronics**: Digital Information & Technology Center - Intern (2021.7 ~ 2021.8)
-* **Train & Test** SKKU Student AI Society  (2020.9 ~ )
+* **Seoul National University** : Biomedical Modeling and Control Lab - Intern Researcher (2020.12 ~ 2021.2)
+* **Samsung Electronics** : Digital Information & Technology Center - Intern (2021.7 ~ 2021.8)
+* **Train & Test** : SKKU Student AI Society  (2020.9 ~ )
