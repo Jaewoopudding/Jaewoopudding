@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 * **Train & Test** : SKKU Student AI Society  (2020.9 ~ )
 
 ## ✏️ Academic Interests
-* eXplainable Artificial Intelligence
-* Mechanical Fault Detection and Diagnosis
-* Prognostic Health Management
+* **XAI** - eXplainable Artificial Intelligence
+* **FDD** Mechanical Fault Detection and Diagnosis
+* **PHM** Prognostic Health Management
