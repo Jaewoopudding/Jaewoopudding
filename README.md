@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 * **Samsung Electronics** : Digital Information & Technology Center - Intern (2021.7 ~ 2021.8)
 * **Train & Test** : SKKU Student AI Society  (2020.9 ~ )
 
-## ✏️
+## ✏️ Academic Interests
+* eXplainable Artificial Intelligence
+* Fault Detection and Diagnosis
+* Prognostic Health Management
