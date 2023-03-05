@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🔭 I’m currently working on KAIST System Intelligence Lab
+* Master's Course (2022.2 ~ 2023.2(Expected))
+
 ## 🤔 Interested in 
-* Machine Learning with Mechanical Engineering
-* Computer Vision
-* Robotics 🤖
+* Decision Making Intelligence
+* Industurial AI
 
 ## 👯 Experiences
+* **Samsung Electronics** : Innovation Center - SW Engineer (2022.2 ~ 2023.2)
+* **Samsung Electronics** : Digital Information & Technology Center - Data Scientist Intern (2021.7 ~ 2021.8)
 * **Seoul National University** : Biomedical Modeling and Control Lab - Intern Researcher (2020.12 ~ 2021.2)
-* **Samsung Electronics** : Digital Information & Technology Center - Intern (2021.7 ~ 2021.8)
-* **Train & Test** : SKKU Student AI Society  (2020.9 ~ )
+* **Train & Test** : Sungkyunkwan University's Student AI Society  (2020.9 ~ 2022.2)
 
 ## ✏️ Academic Interests
-* **XAI** - eXplainable Artificial Intelligence
-* **FDD** - Mechanical Fault Detection and Diagnosis
-* **PHM** - Prognostic Health Management
+* **Meta Learning**
+* **Reinforcement Learning**
+* **Scientific Computing**
