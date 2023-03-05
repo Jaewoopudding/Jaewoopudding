@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on KAIST System Intelligence Lab
-* Master's Course (2022.2 ~ 2023.2(Expected))
+* Master's Course (2023.2 ~ 2025.2(Expected))
 
 ## 🤔 Interested in 
-* Decision Making Intelligence
-* Industurial AI
+* **Decision Making Intelligence**
+* **Industurial AI**
 
 ## 👯 Experiences
 * **Samsung Electronics** : Innovation Center - SW Engineer (2022.2 ~ 2023.2)
-* **Samsung Electronics** : Digital Information & Technology Center - Data Scientist Intern (2021.7 ~ 2021.8)
+* **Samsung Electronics** : Digital Information & Technology Center -  Intern Data Scientist (2021.7 ~ 2021.8)
 * **Seoul National University** : Biomedical Modeling and Control Lab - Intern Researcher (2020.12 ~ 2021.2)
 * **Train & Test** : Sungkyunkwan University's Student AI Society  (2020.9 ~ 2022.2)
 
