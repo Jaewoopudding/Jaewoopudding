@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently working on KAIST SILab
-* **Master's Course on KAIST AI Graduate School** (2023.2 ~ 2025.2(Expected))
+* **Master's Course on Graduate School of AI, KAIST** (2023.2 ~ 2025.2(Expected))
 
 ## 🤔 Interested in 
 * **Decision Making Intelligence**
