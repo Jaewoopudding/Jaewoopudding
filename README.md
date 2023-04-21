@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * **Decision Making Intelligence**
 * **Industurial AI**
 
-## 👯 Experiences
+##  Experiences
 * **Samsung Electronics** : Innovation Center - SW Engineer (2022.2 ~ 2023.2)
 * **Samsung Electronics** : Digital Information & Technology Center -  Intern Data Scientist (2021.7 ~ 2021.8)
 * **Seoul National University** : Biomedical Modeling and Control Lab - Intern Researcher (2020.12 ~ 2021.2)
