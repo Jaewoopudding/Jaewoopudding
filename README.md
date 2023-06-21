@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 * **Train & Test** : Sungkyunkwan University's Student AI Society  (2020.9 ~ 2022.2)
 
 ## ✏️ Academic Interests
-* **Meta Learning**
 * **Reinforcement Learning**
-* **Scientific Computing**
